@@ -1,9 +1,5 @@
 # Sets the theme to Cayman
 theme: jekyll-theme-cayman
-# Sets the path
-baseurl: ""
-# Sets the domain
-url: "https://catos-scratch.github.io"
 # Sets the title
 title: CatOS Website
 # Sets the description
